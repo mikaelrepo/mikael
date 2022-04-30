@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhemma
-- 👀 I’m interested in Powershell
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on .Net
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Packer
+- 💞️ I’m looking to collaborate on Linux
 
 
 <!---
