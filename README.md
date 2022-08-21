@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhemma
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning Packer
+- 🌱 I’m currently learning Azure Devops
 - 💞️ I’m looking to collaborate on Linux
 
 
